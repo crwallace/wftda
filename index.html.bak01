@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Women's Flat Track Derby Association</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href='http://fonts.googleapis.com/css?family=Trade+Winds&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+
+
+</head>
+<body>
+	<!-- Tagline-->
+	<!--<div id="tagline">
+			<ul>
+				<li>Real.</li>
+				<li>Strong.</li>
+				<li>Athletic.</li>
+				<li>Revolutionary.</li>
+			</ul>
+		</div>-->
+	<div id="bodycontainer">
+		<div id="navcontainer">
+			<nav>
+				<ul class="nav" id="topnav">
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Leagues</a></li>
+					<li><a href="#">Video</a></li>
+					<li><a href="#">Sponsors</a></li>
+					<li><a href="#">Store</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>	
+			</nav>
+		</div>
+		<div id="searchcontainer">
+			<input id="searchbox" type="text" name="search" value size="30" maxlength="1000">
+			<a href="#"><img class="smicon" src="img/email.png"></a>
+			<a href="#"><img class="smicon" src="img/facebook.png"></a>
+			<a href="#"><img class="smicon" src="img/twitter.png"></a>
+			<a href="#"><img class="smicon" src="img/pinterest.png"></a>
+			<a href="#"><img class="smicon" src="img/youtube.png" ></a>
+		</div>
+		<img id="logo" src="img\wftda_header.png">
+		<div id="sidenav">
+			<div class="button">
+				<h5>I want to...</h5>
+				<h3>PLAY!</h3>
+			</div>
+		</div>
+		<div id="sliderspace">
+		</div>
+		<div id="scores">
+			<ul>
+				<li>
+					<div>
+						<p>Chicago Outfit 57</p>
+						<p>Windy City 12</p>
+					</div>
+				</li>
+				<li>
+					<div>
+						<p>Montreal 167</p>
+						<p>Bellingham 273</p>
+					</div>
+				</li>
+				<li>
+					<div>
+						<p>Philly 83</p>
+						<p>Omaha 56</p>
+					</div>
+				</li>
+				<li>
+					<div>
+						<p>Treasure Valley 186</p>
+						<p>Emerald City 244</p>
+					</div>
+				</li>
+				<li>
+					<div>
+						<p>Burning River 157</p>
+						<p>Naptown 222</p>
+					</div>
+				</li>
+				<li>
+					<div>
+						<p>NEO 57</p>
+						<p>No Coast 312</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
